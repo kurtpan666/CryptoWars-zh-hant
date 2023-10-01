@@ -4,3 +4,13 @@ language = "en"
 multilingual = false
 src = "src"
 title = "密码战争"
+
+
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
+marker = "[TOC]"
+max-level = 4
+
+[preprocessor.katex]
+after = ["links"]
