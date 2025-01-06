@@ -3,7 +3,7 @@ authors = ["Kurt Pan"]
 language = "en"
 multilingual = false
 src = "src"
-title = "密码战争"
+title = "密碼戰爭"
 
 
 [preprocessor.toc]
