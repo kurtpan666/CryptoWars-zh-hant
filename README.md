@@ -2,6 +2,7 @@
 Chinese translation of Crypto Wars: The Fight for Privacy in the Digital Age by Craig Jarvis
 
 ## log
+- 250111 3.3 done.
 - 250110 3.1 done.
 - 250109 edit 3.2.
 - 250108 ch2 done.

@@ -11,3 +11,5 @@
 - [密码朋克](3-cycherpunk.md)
     - [最极端的密码无政府主义宣言：刺杀政治](./3.1-ap.md)
     - [起來，密碼朋克們](./3.2-arise.md)
+    - [對老大哥的恐懼](./3.3-fear-of-big-brother.md)
+    - [密碼朋克的目標](./3.4-cyberpunk-objectives.md)
