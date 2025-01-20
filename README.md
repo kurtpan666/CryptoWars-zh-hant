@@ -2,6 +2,8 @@
 Chinese translation of Crypto Wars: The Fight for Privacy in the Digital Age by Craig Jarvis
 
 ## log
+- 250120 3.8 done.
+- 250117 3.7 done. contact 沙漏時間.
 - 250116 3.6 done.
 - 250115 3.5 done.
 - 250114 朋克->龐克. 3.4 done.
