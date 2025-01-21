@@ -7,3 +7,4 @@
 - [密碼奇點](3.6-crypto-singularity.md)
 - [密碼龐克有多麼「無政府」？](3.7-cypherpunk-anarchist.md)
 - [駭客倫理](3.8-hacker-ethic.md)
+- [密碼龐克與反文化：讓五角大廈懸浮](3.9-cypherpunk-and-counterculture.md)
