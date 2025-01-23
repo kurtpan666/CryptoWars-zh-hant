@@ -19,3 +19,4 @@
     - [駭客倫理](./3.8-hacker-ethic.md)
     - [密碼龐克與反文化：讓五角大廈懸浮](./3.9-cypherpunk-and-counterculture.md)
     - [密碼龐克不信任的根源](./3.10-cypherpunk-distrust.md)
+    - [密碼龐克文學與電影](./3.11-cypherpunk-literature-and-film.md)
