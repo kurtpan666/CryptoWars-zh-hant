@@ -20,3 +20,5 @@
     - [密碼龐克與反文化：讓五角大廈懸浮](./3.9-cypherpunk-and-counterculture.md)
     - [密碼龐克不信任的根源](./3.10-cypherpunk-distrust.md)
     - [密碼龐克文學與電影](./3.11-cypherpunk-literature-and-film.md)
+- [第一次密碼戰爭（1966-1981）：數據加密標準（DES）](4-cw1-des.md)
+    - [《密碼破譯者》：大衛·卡恩出版了一本密碼學聖經](4.1-codebreakers.md)
