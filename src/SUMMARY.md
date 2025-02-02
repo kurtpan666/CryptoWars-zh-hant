@@ -31,3 +31,7 @@
     - [1990 年代：密碼龐克與 DES 的衰亡](4.8-90s-cypherpunks-and-des.md)
     - [DES：回顧](4.9-DES-retrospect.md)
     - [四分之一世紀的抗議](4.10-quarter-century-protest.md)
+- [第一次密碼戰爭（1966-1981）：為學術自由的鬥爭](5-cw1-academic.md)
+    - [流浪的密碼學家：狄菲與赫爾曼相遇](5.1-diffie-hellman.md)
+    - [狄菲與密碼學](5.2-diffie-crypto.md)
+    - [赫爾曼與密碼學](5.3-hellman-crypto.md)
