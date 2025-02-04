@@ -1,10 +1,12 @@
-# CryptoWars-zh-CN
-Chinese translation of Crypto Wars: The Fight for Privacy in the Digital Age by Craig Jarvis
+# CryptoWars-zh-hant
+
+Traditional Chinese translation of *Crypto Wars: The Fight for Privacy in the Digital Age* by Craig Jarvis
 
 ## log
+- 250204 7.1-7.12 done. Establishing Wechat group for further discussion.
 - 250203 ch6 done.
 - 250202 ch5 done.
-- 250201 ch4 done.
+- 250201 ch4 done. change domain to `cryptowars.zkpunk.pro`.
 - 250128 4.1 done.
 - 250123 ch3 done.
 - 250122 3.10 done.
