@@ -3,7 +3,7 @@
 Traditional Chinese translation of *Crypto Wars: The Fight for Privacy in the Digital Age* by Craig Jarvis
 
 ## log
-- 250205 ch7 done.
+- 250205 ch7 done. 8.1-8.8 done.
 - 250204 7.1-7.12 done. Establishing Wechat group for further discussion.
 - 250203 ch6 done.
 - 250202 ch5 done.
