@@ -70,3 +70,6 @@
     - [代碼作為受憲法保護的言論 II：應用密碼學](7.10-applied-cryptography.md)
     - [代碼作為受憲法保護的言論 III：Peter Junger](7.11-junger.md)
     - [加密與國會](7.12-enc-congress.md)
+    - [顛覆外國政府的密碼](7.13-subvert-foreign-governments.md)
+    - [塔樓崩塌](7.14-towers-fall.md)
+    - [第二次密碼戰爭：總結](7.15-cw2-summary.md)
