@@ -1,5 +1,7 @@
 # Summary
 
+[前言](0-preface.md)
+[序章：密碼學的新時代](0-prologue.md)
 - [密碼戰爭](1-crypto-wars.md)
 - [通訊革命簡史](2-communication-revolution.md)
     - [書面文字](2.1-written-words.md)
@@ -85,3 +87,6 @@
     - [川普年代](8.9-trump-years.md)
     - [拜登勝選](8.10-biden-victory.md)
     - [第三次密碼戰爭：總結](8.11-cw3-summary.md)
+- [結語](9-conclusion.md)
+    - [結語：推動辯論向前](9.1-debate-forward.md)
+    - [未來何去何從？](9.2-future.md)
