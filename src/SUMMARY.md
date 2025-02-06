@@ -82,3 +82,6 @@
     - [蘋果蔑視法院：聖伯納丁諾與例外存取](8.6-apple-bernardino.md)
     - [伯爾-費恩斯坦例外存取法](8.7-burr-feinstein.md)
     - [幽靈用戶：英國的密碼戰爭](8.8-uk.md)
+    - [川普年代](8.9-trump-years.md)
+    - [拜登勝選](8.10-biden-victory.md)
+    - [第三次密碼戰爭：總結](8.11-cw3-summary.md)
