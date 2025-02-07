@@ -1,0 +1,10 @@
+  /* Example: Use this font in code blocks or body text */
+  body, code {
+    font-family: 'LXGW Wenkai', sans-serif;
+  }
+
+  body {
+    margin: 0;
+    font-size: 2rem;
+    overflow-x: hidden;
+}
