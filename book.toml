@@ -15,6 +15,9 @@ max-level = 4
 [preprocessor.katex]
 after = ["links"]
 
+[output.html]
+theme = "theme"
+
 [output.html.fold]
 enable = true   # whether or not to enable section folding
 level = 0        # the depth to start folding
