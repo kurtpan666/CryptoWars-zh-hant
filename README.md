@@ -3,6 +3,7 @@
 Traditional Chinese translation of *Crypto Wars: The Fight for Privacy in the Digital Age* by Craig Jarvis
 
 ## log
+- 250210 revise ch0 preface.
 - 250207 try to use new font.
 - 250206 ch8 done. all content done. change fold/favicon
 - 250205 ch7 done. 8.1-8.8 done.
