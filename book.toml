@@ -6,7 +6,7 @@ title = "密碼戰爭"
 
 [output.html]
 theme = "theme"
-additional-css = ["theme/custom-fonts.css"]
+additional-css = ["theme/fonts/fonts.css", "theme/custom-fonts.css"]
 default-theme = "light"
 preferred-dark-theme = "light"
 
