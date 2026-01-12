@@ -11,14 +11,14 @@
 
 /* Hide theme picker button */
 #theme-toggle {
-    display: none;
+    display: none !important;
 }
 
 #theme-list {
-    display: none;
+    display: none !important;
 }
 
 /* Hide print button */
 #print-button {
-    display: none;
+    display: none !important;
 }
