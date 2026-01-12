@@ -4,10 +4,6 @@ language = "zh-TW"
 src = "src"
 title = "密碼戰爭"
 
-
-[preprocessor.katex]
-after = ["links"]
-
 [output.html]
 theme = "theme"
 additional-css = ["theme/custom-fonts.css"]
