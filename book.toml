@@ -1,7 +1,6 @@
 [book]
 authors = ["Kurt Pan"]
-language = "en"
-multilingual = false
+language = "zh-TW"
 src = "src"
 title = "密碼戰爭"
 
